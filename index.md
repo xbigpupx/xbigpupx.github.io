@@ -8,6 +8,8 @@ title: Creativoid
 **Senior Capstone Project**
 *May 2026*
 
+---
+
 ## Description
 Creativoid is an application intended for facilitating the creation of advertisements/content which can then be uploaded to different social media accounts. Creativoid takes advantage of local databases and integrated Android libraries to facilitate and stream line the process.
 
