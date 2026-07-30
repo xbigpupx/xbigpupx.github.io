@@ -11,21 +11,22 @@ title: Creativoid
 ---
 
 ## Description
-Creativoid is an application intended for facilitating the creation of advertisements/content which can then be uploaded to different social media accounts. Creativoid takes advantage of local databases and integrated Android libraries to facilitate and streamline this process, allowing users to easily post their generated content.
+
+Creativoid is an application designed to facilitate the creation of advertisements and other social media content. It enables users to generate content that can be uploaded to multiple social media platforms. By leveraging local databases and integrated Android libraries, Creativoid streamlines the content creation process, allowing users to quickly generate and publish content.
 
 ---
 
 ## Features
-- Randomization of generated content based on users preferences.
-- Database management system integrated into the application.
-- Use of a local database system offers both performance and quick acquisition of generated content. 
+- Randomized content generation based on user preferences.
+- Integrated database management system for efficient data storage and access.
+- Local database system offers both improved performance and quick acquisition of generated content. 
 
 ---
 
 ## Technologies
 - Kotlin
 - Android Studio
-- Room databases
+- Room Database
 
 ---
 
